@@ -103,7 +103,7 @@ A study using the correct model would show that stress is the main driver of anx
 
 Most people are more likely to believe the first (misleading) result because it sounds surprising. Social media companies would also prefer that version.
 
-## Question 9. Fixing the Problem
+## Question 9. Avoiding Misleading Statistical Significance
 ```{python}
 #| label: subset-regression
 #| tbl-cap: "Subset Regression: Low Stress"
